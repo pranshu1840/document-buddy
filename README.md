@@ -111,4 +111,4 @@ This command will launch the app in your default web browser. If it doesn’t op
 
 •	ChatOllama Documentation: https://github.com/langchain-ai/langchain-llms#ollama
 
-Happy coding! 🚀✨
+
